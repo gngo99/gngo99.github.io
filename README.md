@@ -1,13 +1,42 @@
-<!-- author: Your Name, date -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
- <meta charset="UTF-8">
- <title>Page Title</title>
-</head>
-<body>
- <h1>Heading</h1>
- <p>Paragraph.</p>
-  <img width="1917" height="967" alt="TinkerCard" src="https://github.com/user-attachments/assets/8567e13d-2fec-401c-a049-ff6ebe4ed1b0" />
-</body>
-</html>
+# Gia Huy Ngo's portfolio
+Introductory text
+ 
+## Project / Assignment title
+Description text
+* cool thing about it 1
+* cool thing about it 2
+* cool thing about it 3
+ 
+add screenshot here....
+ 
+## Project / Assignment title
+Description text
+* cool thing about it 1
+* cool thing about it 2
+* cool thing about it 3
+ 
+add screenshot here....
+ 
+## Project / Assignment title
+Description text
+* cool thing about it 1
+* cool thing about it 2
+* cool thing about it 3
+ 
+add screenshot here....
+ 
+## Project / Assignment title
+Description text
+* cool thing about it 1
+* cool thing about it 2
+* cool thing about it 3
+ 
+add screenshot here....
+ 
+## Project / Assignment title
+Description text
+* cool thing about it 1
+* cool thing about it 2
+* cool thing about it 3
+ 
+<img width="1237" height="1216" alt="test2" src="https://github.com/user-attachments/assets/00752c7f-293b-49ad-8e28-9a90ecf9f7e2" />
